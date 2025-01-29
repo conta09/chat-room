@@ -16,9 +16,7 @@
   }
 }
 
-body {
-  background-color: #E3F2FD;
-}
+
 
 @layer utilities {
   .text-balance {
